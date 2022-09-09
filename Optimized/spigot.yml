@@ -1,0 +1,5 @@
+world-settings:
+  default:
+    max-tick-time:
+      tile: 1000
+      entity: 1000

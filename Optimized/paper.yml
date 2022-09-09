@@ -1,0 +1,8 @@
+world-settings:
+  default:
+    optimize-explosions: true
+    remove-corrupt-tile-entities: true
+    delay-chunk-unloads-by: 3s
+    use-faster-eigencraft-redstone: true
+    game-mechanics:
+      no-tick-view-distance: 12

@@ -1,0 +1,7 @@
+chunk-gc:
+  period-in-ticks: 400
+ticks-per:
+  monster-spawns: 4
+  water-spawns: 7
+  water-ambient-spawns: 10
+  ambient-spawns: 12
