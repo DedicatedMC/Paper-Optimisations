@@ -1,0 +1,5 @@
+world-settings:
+  default:
+    delay-chunk-unloads-by: 3s
+    optimize-explosions: tue
+    redstone-implementation: alternate-current

@@ -1,0 +1,7 @@
+settings:
+  save-user-cache-on-stop-only: true
+world-settings:
+  default:
+    max-tick-time:
+      tile: 1000
+      entity: 1000
